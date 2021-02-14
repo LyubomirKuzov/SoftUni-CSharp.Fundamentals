@@ -1,0 +1,28 @@
+div {
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+    margin-left: 3%;
+}
+
+span {
+    font-weight: bold;
+    border: darkcyan dotted;
+}
+
+th, td {
+    padding: 3px;
+}
+
+h1 {
+    display: inline;
+    color: blue;
+}
+
+p {
+    color: darkviolet;
+}
+
+li {
+    border: yellow solid;
+}

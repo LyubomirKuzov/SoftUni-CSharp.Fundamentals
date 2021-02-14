@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Game", "..\..\Resources\EinsteinsRiddle-Solution\EinsteinsRiddle-Solution\Game\Game\Game.csproj", "{620B30C0-305E-4170-AB8C-5D343D9826FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestPalindromeSub-List", "LongestPalindromeSub-List\LongestPalindromeSub-List.csproj", "{A7D02ECA-AB33-4C94-A42F-90ADF80A66AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{620B30C0-305E-4170-AB8C-5D343D9826FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{620B30C0-305E-4170-AB8C-5D343D9826FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{620B30C0-305E-4170-AB8C-5D343D9826FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{620B30C0-305E-4170-AB8C-5D343D9826FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7D02ECA-AB33-4C94-A42F-90ADF80A66AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7D02ECA-AB33-4C94-A42F-90ADF80A66AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7D02ECA-AB33-4C94-A42F-90ADF80A66AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7D02ECA-AB33-4C94-A42F-90ADF80A66AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {455A66A3-C4AF-459F-A88C-DF3F11CCF6AC}
+	EndGlobalSection
+EndGlobal

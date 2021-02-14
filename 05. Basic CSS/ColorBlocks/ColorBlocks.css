@@ -1,0 +1,30 @@
+div {
+    display: inline-block;
+    padding: 20px;
+    border: 3px solid yellow;
+    margin: 20px;
+    font-family: 'Bree Serif', Verdana;
+    font-size: large;
+    font-weight: bold;
+    color: white;
+}
+
+#green {
+    background-color: green;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#red {
+    background-color: red;
+}
+
+#purple {
+    background-color: purple;
+}
+
+#orange {
+    background-color: orange;
+}
