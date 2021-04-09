@@ -7,13 +7,13 @@ namespace MatchFullName
     {
         static void Main(string[] args)
         {
-            var pattern = @"\b[A-Z][a-z]+ [A-Z][a-z]+\b";
+            string regex = @"\b[A-Z][a-z]+ [A-Z][a-z]+\b";
 
-            string names = Console.ReadLine();
+            string allNames = Console.ReadLine();
 
-            var matches = Regex.Matches(names, pattern);
+            MatchCollection validNames = Regex.Matches(allNames, regex);
 
-            foreach (Match name in matches)
+            foreach (Match name in validNames)
             {
                 Console.Write(name.Value + " ");
             }
